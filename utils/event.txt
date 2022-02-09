@@ -1,0 +1,172 @@
+'''이벤트명 번역'''
+<div class="event-banner-info">
+{| class="article-table"
+|+
+!colspan="2" |<div class="banner-image">[[파일:h_event_event_num.jpg|가운데]]</div>
+|-
+|가챠
+|<div class="gacha-banner">[[파일:banner_eventgacha_event_num.png|가운데]]gacha_name<br> 가챠</div>
+|-
+|colspan="2" |year년 month월 day일 ~ end_year년 end_month월 end_day일 12:59
+|-
+|colspan="2" |(발렌화데 등 캠페인이 있거나 연작 이벤트인 경우에 해당 캠페인/이벤트 링크 붙이기)
+|}
+</div>
+
+==이벤트 예고==
+<div class="trailer">
+{| class="article-table"
+!style="background:#cce8f4;"|일본어
+!style="background:#cce8f4;"|한국어
+|-
+|<div >
+
+</div>
+|<div>
+
+</div>
+|}
+</div>
+<br>
+
+==이벤트 등장 아이돌==
+<div class="event-member">
+{| class="article-table"
+|+
+!랭킹보상SR
+!랭킹보상R
+!포인트보상R
+!가챠SR
+!가챠R
+!가챠R
+|-
+|[[file:event_idol1]]
+|[[file:event_idol2]]
+|[[file:event_idol3]]
+|[[file:event_idol4]]
+|[[file:event_idol5]]
+|[[file:event_idol6]]
+|-
+|[[event_idol1_name/카드 목록#【】event_idol1_j_name|【】event_idol1_j_name]]
+|[[event_idol2_name/카드 목록#【】event_idol2_j_name|【】event_idol2_j_name]]
+|[[event_idol3_name/카드 목록#【】event_idol3_j_name|【】event_idol3_j_name]]
+|[[event_idol4_name/카드 목록#【】event_idol4_j_name|【】event_idol4_j_name]]
+|[[event_idol5_name/카드 목록#【】event_idol5_j_name|【】event_idol5_j_name]]
+|[[event_idol6_name/카드 목록#【】event_idol6_j_name|【】event_idol6_j_name]]
+|}
+</div>
+<br>
+
+==이벤트 브로마이드==
+{| class="article-table"
+|+
+|[[파일:event_event_num.jpg|가운데|400x400픽셀]]
+|}
+<br>
+
+==이벤트 카드 브로마이드==
+<div class="event-member">
+{| class="article-table"
+|[[file:event_idol1_bromide]]
+|[[file:event_idol1_bromideP]]
+|[[file:event_idol4_bromide]]
+|[[file:event_idol4_bromideP]]
+|}
+</div>
+<br>
+
+==이벤트 카드 스탠딩 이미지==
+<div class="event-member">
+{| class="article-table"
+|[[file:event_idol1_stand]]
+|[[file:event_idol2_stand]]
+|[[file:event_idol3_stand]]
+|[[file:event_idol4_stand]]
+|[[file:event_idol5_stand]]
+|[[file:event_idol6_stand]]
+|}
+</div>
+
+<div class="event-member">
+{| class="article-table"
+|[[file:event_idol1_standP]]
+|[[file:event_idol2_standP]]
+|[[file:event_idol3_standP]]
+|[[file:event_idol4_standP]]
+|[[file:event_idol5_standP]]
+|[[file:event_idol6_standP]]
+|}
+</div>
+<BR>
+
+==이벤트 명함 소재==
+<div class="custom-tabber-1" align="center">
+<tabber>
+|-| 이벤트 로고=
+{| class="article-table"
+|[[파일: 로고.png|가운데]]
+|}
+
+
+|-| 이벤트 배경=
+{| class="article-table"
+!<center>배경 1</center>
+!<center>배경 2</center>
+!<center>배경 3</center>
+|-
+|[[파일: 배경01.jpg|가운데|200px]]
+|[[파일: 배경02.jpg|가운데|200px]]
+|[[파일: 배경03.jpg|가운데|200px]]
+|-
+!<center>배경 4</center>
+!<center>배경 5</center>
+!<center>배경 6</center>
+|-
+|[[파일: 배경04.jpg|가운데|200px]]
+|[[파일: 배경05.jpg|가운데|200px]]
+|[[파일: 배경06.jpg|가운데|200px]]
+|}
+
+
+|-| ETC=
+{| class="article-table"
+|colspan="3" | '''*데이터로는 있으나 인겜 내에서는 판매하지 않는 이미지입니다.'''
+|-
+!<center>07</center>
+!<center>08</center>
+!<center>09</center>
+|-
+|[[파일: 배경07.jpg|가운데|200px]]
+|[[파일: 배경08.jpg|가운데|200px]]
+|[[파일: 배경09.jpg|가운데|200px]]
+|}
+</tabber>
+</div>
+<br>
+
+==이벤트 스토리==
+
+{| class="article-table"
+!width="110px"|스토리 번역본
+|[링크]
+|}
+<br>
+==증간호==
+
+<div class="event-cartoon-list">
+{| class="article-table"
+|+
+!idol1|| 제목 || 링크(있으면)
+|-
+!idol2|| 제목 || 링크(있으면)
+|-
+!idol3|| 제목 || 링크(있으면)
+|-
+!idol4|| 제목! || 링크(있으면)
+|-
+!idol5|| 제목 || 링크(있으면)
+|-
+!idol6|| 제목 || 링크(있으면)
+|}
+</div>
+<br>
