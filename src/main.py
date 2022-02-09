@@ -15,7 +15,7 @@ def execute_programe():
 	cards.setSrRange(int(s1.get()), int(s2.get()) + 1, int(s3.get()), int(s4.get()) + 1)
 	cards.setRRange(int(r1.get()), int(r2.get()) + 1, int(r3.get()), int(r4.get()) + 1)
 
-	label = Label(window, text="I'm CUTE")
+	label = Label(window, text="I M CUTE")
 	label.grid(row=6, column=2)
 
 	res_btn['state'] = DISABLED
