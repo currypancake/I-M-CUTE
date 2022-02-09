@@ -2,7 +2,7 @@
 나 는 귀엽다
 
 ## 다운 받기
-(링크)[https://github.com/currypancake/wiki-info-macro]
+[링크](https://github.com/currypancake/wiki-info-macro)
 이거 따라하면 됩니다.
 
 ## 필수 파트
