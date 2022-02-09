@@ -93,7 +93,7 @@ def findSRImage(cards, r):
 
 	# 깃발 ~ 레제
 	for i in range(42, 47) :
-		for i in range(cards.s3, cards.s4) :
+		for j in range(cards.s3, cards.s4) :
 			checkCard(cards, r, i, j)
 
 def findRImage(cards, r):

@@ -2,7 +2,7 @@
 나 는 귀엽다
 
 ## 다운 받기
-(링크)[https://github.com/currypancake/wiki-info-macro]
+[링크](https://github.com/currypancake/wiki-info-macro)
 이거 따라하면 됩니다.
 
 ## 필수 파트
@@ -63,12 +63,12 @@ python main.py
 * 끝 번호 - 마지막으로 탐색할 카드 번호를 입력해주세요.
   * 만약 토우마의 30번쨰 스알카드 에서  33번 스알카드까지 확인하고 싶으면
   30과 33을 적어주시면 됩니다.
-  * '깃발 ~ 레제'와 '레제' 부분은 0으로 입력하면 각각 '쥬피터~코가도', '쥬피터~깃발' 과 같은 범위를 탐색합니다.
+  * '깃발 ~ 레제'와 '레제' 부분은 0으로 입력하면 각각 '쥬피터\~코가도', '쥬피터\~깃발' 과 같은 범위를 탐색합니다.
   * 끝번호는 항상 **시작번호보다 큰 숫자**로 입력해주세요.
 
 
 아래는 예시입니다.
-![res](https://github.com/currypancake/I-M-CUTE/blob/master/img/res.png)
+![res](https://github.com/currypancake/I-M-CUTE/blob/master/img/res.jpeg)
 
 
 오류가 나거나 이해가 안되는 부분이 있으면 호출 ㄱㄱ 해주세요.
